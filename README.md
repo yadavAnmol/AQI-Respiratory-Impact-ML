@@ -87,6 +87,15 @@ not individual-level medical prediction.
 
 ---
 
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib
+- Google Colab
+
+---
+
 ````md
 ## Repository Structure
 AQI-Respiratory-Impact-ML/
@@ -95,15 +104,3 @@ AQI-Respiratory-Impact-ML/
 ├── AQI_Respiratory_2000_2019.csv
 ├── README.md
 └── .gitignore
-
-
----
-
-## Technologies Used
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib
-- Google Colab
-
-
