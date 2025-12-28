@@ -100,7 +100,8 @@ not individual-level medical prediction.
 ## Repository Structure
 AQI-Respiratory-Impact-ML/
 │
-├── project_3.ipynb
+├── project.ipynb
 ├── AQI_Respiratory_2000_2019.csv
 ├── README.md
 └── .gitignore
+
